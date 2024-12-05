@@ -1,0 +1,53 @@
+
+
+/* SIDE BOX */
+
+#sidebar{
+    background-color: black;
+    height: 100vh;
+    width: 18vw;
+}
+#logo{
+    margin: 30px;
+}
+#home{
+display:flex;
+border: 1px solid grey;
+background-color: rgb(56, 54, 54);
+
+}
+#search{
+    display:flex;
+    }
+    #library{
+        display:flex;
+        }
+#first{
+  margin: 30px;
+    }
+   #homeimg{
+    padding-top: 10px;
+        padding-left:18px;
+    }
+ #hometext{
+        padding-top: 20px;
+        padding-left:20px ;
+          }
+          #cp{
+            display:flex;
+            }
+            #ls{
+                display:flex;
+                }
+                #ye{
+                    display:flex;
+                    }
+                    #last{
+                        margin-top: 30px;
+                    }
+#lt{
+    padding-top: 20px;
+    padding-left:20px;
+    
+}
+ 
